@@ -1,0 +1,11 @@
+# Ignore virtual environment
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+*.pyo
